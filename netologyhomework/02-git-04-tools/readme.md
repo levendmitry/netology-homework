@@ -9,7 +9,7 @@
     Date:   Thu Jun 18 10:29:58 2020 -0400
     Update CHANGELOG.md  
 2 Ищем коммит по хэшу.  
-  Тэг: "v0.12.23"
+  Тэг: "v0.12.23"  
 
     $ git log 85024d3
     commit 85024d3100126de36331c6982bfaac02cdab9e76 (tag: v0.12.23)
